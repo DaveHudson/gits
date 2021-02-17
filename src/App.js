@@ -11,7 +11,7 @@ function App() {
         </p>
         <p>Honestly</p>
         <p>A change for 47</p>
-        <p>and yet more stuff
+        <p>and yet more stuff</p>
         <p>I will get this right eventually...</p>
         <a
           className="App-link"
