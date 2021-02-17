@@ -15,6 +15,7 @@ function App() {
         <p>and yet more stuff!!!</p>
         <p>This is my change in rebase branch</p>
         <p>I will get this right eventually...</p>
+        <p>A no conflict change</p>
         <a
           className="App-link"
           href="https://reactjs.org"
