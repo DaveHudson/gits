@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>A change on master, that should not conflict</p>
         <p>Honestly</p>
         <p>A change for 49</p>
         <p>and yet more stuff!!!</p>
