@@ -12,6 +12,7 @@ function App() {
         <p>Honestly</p>
         <p>A change for 49</p>
         <p>and yet more stuff!!!</p>
+        <p>This is my change in rebase branch</p>
         <p>I will get this right eventually...</p>
         <a
           className="App-link"
