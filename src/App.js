@@ -17,6 +17,7 @@ function App() {
         <p>This is my change in rebase branch</p>
         <p>I will get this right eventually...</p>
         <p>A no conflict change</p>
+        <p>Squash 1</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -25,6 +26,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Squash 2</p>
       </header>
     </div>
   );
