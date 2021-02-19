@@ -12,6 +12,7 @@ function App() {
         <p>A change on master, that should not conflict</p>
         <p>Honestly</p>
         <p>A change for 49</p>
+        <p>This is a change I want to stage - but I now need to amend!!! Please put in same commit</p>
         <p>and yet more stuff!!!</p>
         <p>This is my change in rebase branch</p>
         <p>I will get this right eventually...</p>
